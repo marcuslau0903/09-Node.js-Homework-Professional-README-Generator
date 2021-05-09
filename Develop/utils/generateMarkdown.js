@@ -1,7 +1,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 const renderLicenseBadge = (license) => {
-  // switch case else if
+  // switch case else if 
   switch (license) { 
     case "MIT": 
       return "![mit license](https://img.shields.io/badge/license-MIT-green)"
@@ -36,13 +36,13 @@ const generateMarkdown = (answers) => {
   
   ## Table of Contents
   
-    [Description](#description)
-    [Installation](#installationProcess)
-    [Usage]
-    [License]
-    [Contributing]
-    [Tests]
-    [Contact info]
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contributing](#Contributing)
+  - [Tests](#Tests)
+  - [Contact info](#Developer-contact-information)
   
   ## Installation
     ${answers.installationProcess}
@@ -58,7 +58,7 @@ const generateMarkdown = (answers) => {
   
   ## Tests
   ${answers.test ? answers.testDetails : "There are no tests for this app"}
-
+  
   ## Developer contact information: 
   - View my [GitHub] (${answers.gitHubProfile}) profile
   - Email me [Through this link](${answers.contactEmail})
