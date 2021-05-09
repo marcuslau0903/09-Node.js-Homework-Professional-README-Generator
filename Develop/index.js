@@ -48,6 +48,7 @@ const init = async () => {
       name: "testDetails",
       type: "input",
       message:"what are the test process?",
+      message:"what are the test process?",
       when:(answers) => answers.test
     },
     {

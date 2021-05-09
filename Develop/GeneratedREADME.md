@@ -1,34 +1,34 @@
-# hi
+# gui
 
   ## Description
   
-  hi
+  g
   
   ## Table of Contents
   
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Contact info](#questions)
+    [Description](#description)
+    [Installation](#installationProcess)
+    [Usage]
+    [License]
+    [Contributing]
+    [Tests]
+    [Contact info]
   
   ## Installation
-    hi
+    g
 
   ## Usage
-    hi
+    g
   
   ## License
   ![mit license](https://img.shields.io/badge/license-MIT-green)
   
   ## Contributing
-  hi
+  g
   
   ## Tests
-  hello
+  h
 
   ## Developer contact information: 
-  - View my GitHub profile [GitHub](https://github.com/marcuslau0903)  
-  - Email me at [Github](marcuslau0903@gmail.com)
+  - View my [GitHub] (k) profile
+  - Email me [Through this link]()

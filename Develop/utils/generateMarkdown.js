@@ -36,13 +36,13 @@ const generateMarkdown = (answers) => {
   
   ## Table of Contents
   
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Contact info](#questions)
+    [Description](#description)
+    [Installation](#installationProcess)
+    [Usage]
+    [License]
+    [Contributing]
+    [Tests]
+    [Contact info]
   
   ## Installation
     ${answers.installationProcess}
@@ -60,8 +60,8 @@ const generateMarkdown = (answers) => {
   ${answers.test ? answers.testDetails : "There are no tests for this app"}
 
   ## Developer contact information: 
-  - View my GitHub profile [GitHub](${answers.gitHubProfile})  
-  - Email me at [Github](${answers.contactEmail})
+  - View my [GitHub] (${answers.gitHubProfile}) profile
+  - Email me [Through this link](${answers.contactEmail})
 `
 };
 
