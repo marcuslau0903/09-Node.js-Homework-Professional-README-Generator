@@ -28,9 +28,12 @@ A suggested file/folder structure:
 
 ```
 	readme-generator-repo/
-		index.js
-		README.md // The standard README we have for every homework
-		GENERATED_README.md //The README we've generated from our application in `index.js`
+      utils/
+        generateMarkdown.js
+      index.js
+      .gitignore
+      README.md // The standard README we have for every homework
+      GENERATED_README.md //The README we've generated from our application in `index.js`
 ```
 
 ---
